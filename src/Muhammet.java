@@ -4,5 +4,6 @@ public class Muhammet {
         System.out.println("betül değişiklik_1");
         System.out.println("muhammet değişiklik");
         System.out.println("betül değişiklik_2");
+        System.out.println("Muhammet değişiklik 2");
     }
 }
